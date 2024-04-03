@@ -65,6 +65,6 @@ SELECT
     own_bike, -- 보유한 모두 기기 대수(센터 입고 포함)
     av_bike/own_bike as availability, -- 가용률 / 센터에서 이용 가능한 기기를 만들어낸 대수 / 센터별 핵심 성과지표
     on_field_bike/own_bike as repair_rating, -- 수리율 / 센터에서 출고된 기기 대수 / 센터별 핵심 성과지표(유지보수)
-    av_bike/on_field_bike as onsite_rating -- 이용 가능률 // 센터별 핵심 성과지표(현장관리)
+    av_bike/on_field_bike as onsite_rating -- 현장조치율 // 센터별 핵심 성과지표(현장관리)
 FROM bike_op_total
 ORDER BY date desc, center
