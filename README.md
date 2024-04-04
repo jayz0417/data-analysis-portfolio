@@ -6,7 +6,7 @@
 2. Python을 이용한 데이터분석
 
 ### 나인투원 - 쏘카일레클
-> BigQuery, PostgresQL, MongoDB 외에 Holistics BI Tool 사용
+> BigQuery, PostgresQL, MongoDB 외에 Holistics BI Tool, Google SpreadSheets 활용
 > Holistics란?
 ```
 1. Tableau와 같은 비즈니스 인텔리전스(BI) 및 데이터 분석을 위한 클라우드 기반 플랫폼
@@ -18,3 +18,10 @@
 >> 1. Product 매출 정산 데이터마트 기획: SQL을 활용한 매출 분석 & 정산 데이터마트 기획 프로젝트
 >> 2. 성과지표 수립: 주요 성과지표를 정의하여 기준을 수립하고 SQL, Google SpreadSheets, Holistics를 활용하여 지표를 관리할 수 있는 대시보드 기획
 >> 3. 데이터지원: 여러 팀과 파트에서 필요로 하는 데이터분석 업무 지원 및 대시보드 기획
+
+### 쏘카 - 카셰어링
+> BigQuery, Google SpreadSheets, Google Colab(Python) 활용
+>> 1. 제주지역 예약분석: 가격제 기획, 공급 기획을 하기 위해 지역의 이용 행태를 분석한 프로젝트
+>> 2. 부름서비스 EDA: 24년 매출/이익 신장을 위해 기존 왕복(존, 부름) 서비스외에 편도(부름, 존편도) 서비스를 확대하기 위해 분석한 프로젝트
+>> 3. 부름 Review: 확장한 신규 서비스(부름 편도)의 성과를 분석하여 개선점을 찾고 추가로 존 편도 서비스를 확대하기 위해 분석한 프로젝트
+>>> 진행중 프로젝트: 부름 확대전략(수요/공급 관점), 부름 Cost 지표 및 데이터마트 기획
