@@ -31,7 +31,7 @@
 ```
 데이터 커리어를 시작하게된 시작점: 데이터분석을 열망하며 처음으로 개발/통계/분석/모델링 들을 공부하며 진행한 프로젝트
 ```
-- Skill-Set: Jupyter Notebook(Python) 활용
+- Skill-Set: Jupyter Notebook(Python) 활용   
 1-1 주요 프로젝트
   > 1st EDA Project: Python을 활용하여 탐색적 데이터분석을 진행한 첫번째 프로젝트   
   ```
