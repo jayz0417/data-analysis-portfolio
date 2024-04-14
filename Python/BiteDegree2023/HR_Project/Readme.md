@@ -98,7 +98,7 @@ HR 데이터를 분석하여 퇴사를 하는 직원들의 특징을 이해하�
   - 상관관계가 높은 상위 10개 변수 추출  
   ```
     'OverTime', 'TotalWorkingYears', 'JobLevel', 'MaritalStatus', 'YearsInCurrentRole', 'MonthlyIncome', 'Age', 'YearsWithCurrManager', 'StockOptionLev        | 0.134392    |el', 'YearsAtCompany'
-    ```
+   ```
 
 
   - 상위 10개 변수와 퇴사와의 관계 시각화   
