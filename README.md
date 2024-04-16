@@ -7,7 +7,7 @@
 
 ### 나인투원 - 쏘카일레클
 > BigQuery, PostgresQL, MongoDB 외에 Holistics BI Tool, Google SpreadSheets 활용
-> Holistics란?
+- Holistics란?
 ```
 1. Tableau와 같은 비즈니스 인텔리전스(BI) 및 데이터 분석을 위한 클라우드 기반 플랫폼   
 2. 데이터에 기반한 의사결정을 지원하기 위해 비즈니스 사용자와 데이터 분석가 모두를 위한 강력한 데이터 분석 및 시각화 도구를 제공   
