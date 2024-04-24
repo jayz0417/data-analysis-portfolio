@@ -7,15 +7,15 @@
 
 ### 나인투원 - 쏘카일레클
 > BigQuery, PostgresQL, MongoDB 외에 Holistics BI Tool, Google SpreadSheets 활용
-```
+
 > 주요 프로젝트
 >> 데이터 관리, 대시보드 제작용 SQL SKill 중심
-```
+
 
 ### 쏘카 - 카셰어링
 > BigQuery, Google SpreadSheets, Google Colab(Python) 활용
 >> 실적 분석, 시각화 보고서 등의 용도의 Python 중심
----
+
 
 ## 개인적 역량 발전을 위해 진행한 프로젝트
 1. Fastcampus Data Science School 17th
