@@ -10,6 +10,7 @@
 ```
 > 주요 프로젝트
 >> 데이터 관리, 대시보드 제작용 SQL SKill 중심
+```
 
 ### 쏘카 - 카셰어링
 > BigQuery, Google SpreadSheets, Google Colab(Python) 활용
